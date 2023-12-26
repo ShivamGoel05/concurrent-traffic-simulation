@@ -3,7 +3,7 @@ Multithreaded traffic simulator on real urban map using real-time computer visio
 separate thread, and manage intersections to facilitate traffic flow and avoid collisions. This concurrent traffic simulation creates separate threads for each vehicle, intersection, and traffic light object with each thread performing a specialised task in parallel to the main program execution.
 
 <p align="center"> <em>New York City traffic simulation</em> </p>
-<p> <img src="./images/nyc.gif" width="800" height="500" alt> </p>
+<p> <img src="./images/nyc.gif" width="800" height="460" alt> </p>
 
 <p align="center"> <em>Paris Arc De Triomphe traffic simulation</em> </p>
 <p> <img src="./images/paris.gif" width="800" height="500" alt> </p>
